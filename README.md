@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya mainali</h1>
 <h3 align="center">A passionate frontend developer from Nepal </h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://pics.craiyon.com/2023-06-10/a45fffa4f9854b77bc4b020e4569e333.webp">
+</br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamainali&label=Profile%20views&color=0e75b6&style=flat" alt="aryamainali" /> </p>
