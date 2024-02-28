@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya mainali</h1>
-<h3 align="center">A passionate frontend developer from Nepal </h3>
+<h3 align="center">From Nepal </h3>
 <img align="right" alt="Coding" width="400" height="300" src="https://pics.craiyon.com/2023-06-10/a45fffa4f9854b77bc4b020e4569e333.webp">
 </br>
 
