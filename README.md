@@ -7,7 +7,7 @@
 
 <div align="left" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px;">
     <h3 style="color: #333;">Current Learning:</h3>
-    <p style="color: #666; font-style: italic;">I'm currently learning Python.</p>
+    <p style="color: #666; font-style: italic;">I'm currently learning DevOps.</p>
 </div>
 
 <div align="left" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px;">
