@@ -43,10 +43,10 @@
 </div>
 <p align="left">
     <a href="https://www.redhat.com/en/certifications/rhce" target="_blank">
-        <img src="https://img.shields.io/badge/Certification-RHCE-red" alt="RHCE">
+        <img src="https://img.shields.io/badge/RHCE-red" alt="RHCE">
     </a>
     <a href="https://www.redhat.com/en/certifications/rhcsa" target="_blank">
-        <img src="https://img.shields.io/badge/Certification-RHCSA-blue" alt="RHCSA">
+        <img src="https://img.shields.io/badge/RHCSA-blue" alt="RHCSA">
     </a>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
