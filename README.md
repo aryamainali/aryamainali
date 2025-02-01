@@ -22,10 +22,9 @@
 
 <div align="center" style="border: 2px solid #333; padding: 20px; border-radius: 10px; margin: 20px;">
     <h3 style="color: #333;">Languages and Tools:</h3>
-    <a href="https://skills.thijs.gg">
-        <img src="https://skills.thijs.gg/icons?i=github,git,linux,express,nodejs,html,css,js,c,py,ansible&theme=dark&perline=6" alt="My Skills" style="max-width: 100%; height: auto;">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </div>
+
 
 <div align="left" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px;">
     <h3 style="color: #333;">Certifications:</h3>
