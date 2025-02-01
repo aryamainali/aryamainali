@@ -22,15 +22,15 @@
 
 <div align="center" style="border: 2px solid #333; padding: 20px; border-radius: 10px; margin: 20px;">
     <h3 style="color: #333;">Languages and Tools:</h3>
-    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 15px;">
-        <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-        <img src="https://img.shields.io/badge/-Ansible-green?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
-        <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-        <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/-CSS3-lightblue?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 15px;">
+        <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git&logoColor=white&labelColor=black&color=blue&size=20" alt="Git" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&labelColor=black&color=black&size=20" alt="GitHub" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white&labelColor=black&color=black&size=20" alt="Linux" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-Ansible-green?style=flat-square&logo=ansible&logoColor=white&labelColor=green&color=green&size=20" alt="Ansible" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white&labelColor=yellow&color=yellow&size=20" alt="Python" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-JavaScript-yellowgreen?style=flat-square&logo=javascript&logoColor=white&labelColor=yellowgreen&color=yellowgreen&size=20" alt="JavaScript" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&labelColor=orange&color=orange&size=20" alt="HTML5" style="height: 60px;">
+        <img src="https://img.shields.io/badge/-CSS3-lightblue?style=flat-square&logo=css3&logoColor=white&labelColor=lightblue&color=lightblue&size=20" alt="CSS3" style="height: 60px;">
     </div>
 </div>
 
