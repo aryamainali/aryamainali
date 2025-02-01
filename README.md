@@ -22,12 +22,24 @@
 
 <div align="center" style="border: 2px solid #333; padding: 20px; border-radius: 10px; margin: 20px;">
     <h3 style="color: #333;">Languages and Tools:</h3>
-    <a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=github,git,linux,express,nodejs,html,css,js,c,py,&theme=dark&perline=6" alt="My Skills"></a>
+    <a href="https://skills.thijs.gg"><img src="https://skills.thijs.gg/icons?i=github,git,linux,express,nodejs,html,css,js,c,py,ansible&theme=dark&perline=6" alt="My Skills"></a>
 </div>
 
+<div align="left" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; margin: 20px;">
+    <h3 style="color: #333;">Certifications:</h3>
+    <p style="color: #666;">I am a certified <strong>RHCE (Red Hat Certified Engineer)</strong> and <strong>RHCSA (Red Hat Certified System Administrator)</strong>.</p>
+</div>
+<p align="left">
+    <a href="https://www.redhat.com/en/certifications/rhce" target="_blank">
+        <img src="https://img.shields.io/badge/Certification-RHCE-red" alt="RHCE">
+    </a>
+    <a href="https://www.redhat.com/en/certifications/rhcsa" target="_blank">
+        <img src="https://img.shields.io/badge/Certification-RHCSA-blue" alt="RHCSA">
+    </a>
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
 </p>
+</p> 
 
 <p align="center" style="margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=aryamainali&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
