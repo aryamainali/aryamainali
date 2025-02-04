@@ -16,8 +16,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-
-  ### **Databases & Tools**
+  
+  ### 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
@@ -41,9 +41,9 @@
 ## 📈 GitHub Insights
 <div align="center">
 
-  ![Coding Streak](https://streak-stats.demolab.com?user=aryamainali&theme=blueberry&hide_border=true&fire=DD472C)
-  
-  ![Activity Stats](https://github-readme-stats.vercel.app/api?username=aryamainali&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true)
+![Streak](https://streak-stats.demolab.com?user=aryamainali&theme=blueberry&hide_border=true)  
+
+![Activity Stats](https://github-readme-stats.vercel.app/api?username=aryamainali&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=blueberry&hide_border=true)
 
@@ -61,8 +61,8 @@
 ---
 
 ## 📬 Contact Me
-<div align="lest">
-  <a href="mailto:arya.mainali@example.com">
+<div align="lest" marginleft=3px>
+  <a href="mailto:aryanmainali6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://twitter.com/aryamainali">
