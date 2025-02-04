@@ -8,7 +8,7 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-<div align="center">
+<div align="left">
   
   ### **Core Technologies**
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -28,7 +28,7 @@
 ---
 
 ## ☁️ Cloud & DevOps
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -52,14 +52,16 @@
 ---
 
 ## 🏆 Certifications
-<div align="center">
+<div align="left">
+  <img src="https://img.shields.io/badge/RHCSA-000000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator">
   <img src="https://img.shields.io/badge/RHCE-000000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified Engineer">
+
 </div>
 
 ---
 
 ## 📬 Contact Me
-<div align="center">
+<div align="lest">
   <a href="mailto:arya.mainali@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
