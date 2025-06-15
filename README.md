@@ -1,17 +1,26 @@
-# Arya Mainali 🌟
-
-<h1 align="center">👋 Hi, I'm Arya Mainali</h1>
-<h3 align="center">Passionate Learner from Nepal 🇳🇵</h3>
+<!-- 
+  ██████╗ ██╗   ██╗██╗     ██╗ ██████╗ ██╗  ██╗███████╗
+  ██╔══██╗╚██╗ ██╔╝██║     ██║██╔═══██╗██║ ██╔╝██╔════╝
+  ██████╔╝ ╚████╔╝ ██║     ██║██║   ██║█████╔╝ ███████╗
+  ██╔═══╝   ╚██╔╝  ██║     ██║██║   ██║██╔═██╗ ╚════██║
+  ██║        ██║   ███████╗██║╚██████╔╝██║  ██╗███████║
+  ╚═╝        ╚═╝   ╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+-->  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryamainali&color=blue&style=flat" alt="Profile views">
+  <h1>👋 Hi, I'm Arya Mainali</h1>
+  <h3>Passionate Learner from Nepal 🇳🇵</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=aryamainali&color=blue&style=flat" alt="Profile views" />
 </div>
+
+<br />
 
 ---
 
-## 🛠️ Tech Stack & Tools   
+## 🛠️ Tech Stack & Tools 
 
-### Core Technologies  
+### Core Technologies
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -20,14 +29,14 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
 </div>
 
-### Databases & Analytics   
+### Databases & Analytics 
 <div align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </div>
 
-### Version Control & Collaboration   
+### Version Control & Collaboration 
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -35,12 +44,12 @@
 
 ---
 
-## ☁️ Cloud & DevOps   
+## ☁️ Cloud & DevOps 
 
 <div align="left">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud-platform&logoColor=white" alt="GCP">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
@@ -48,21 +57,19 @@
 
 ---
 
-## 📈 GitHub Insights   
+## 📈 GitHub Insights 
 
 <div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=aryamainali&theme=blueberry&hide_border=true)  
-
-![Activity Stats](https://github-readme-stats.vercel.app/api?username=aryamainali&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=blueberry&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=aryamainali&theme=blueberry&hide_border=true" alt="GitHub Streak" width="400px"/>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamainali&show_icons=true&theme=blueberry&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="500px"/>
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamainali&layout=compact&theme=blueberry&hide_border=true" alt="Top Languages" width="500px"/>
 </div>
 
 ---
 
-## 🏆 Certifications   
+## 🏆 Certifications 
 
 <div align="left">
   <img src="https://img.shields.io/badge/RHCSA-000000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat Certified System Administrator">
@@ -71,7 +78,7 @@
 
 ---
 
-## 📬 Contact Me   
+## 📬 Contact Me 
 
 <div align="left">
   <a href="mailto:aryanmainali6@gmail.com">
@@ -86,4 +93,3 @@
 </div>
 
 ---
-
